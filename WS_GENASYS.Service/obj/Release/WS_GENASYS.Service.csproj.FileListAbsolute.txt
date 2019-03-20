@@ -1,0 +1,35 @@
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Service.dll
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Service.pdb
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Agente.dll
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Agente.pdb
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\obj\Release\ResolveAssemblyReference.cache
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\obj\Release\WS_GENASYS.Service.dll
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\obj\Release\WS_GENASYS.Service.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Service.dll
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Service.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Agente.dll
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Agente.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\obj\Release\ResolveAssemblyReference.cache
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\obj\Release\WS_GENASYS.Service.dll
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\obj\Release\WS_GENASYS.Service.pdb
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.Service\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.Service\obj\Release\WS_GENASYS.Service.dll
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Service.dll
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Service.pdb
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Agente.dll
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Agente.pdb
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.Service\obj\Release\WS_GENASYS.Service.pdb
+G:\Willis\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Service.dll
+G:\Willis\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Service.pdb
+G:\Willis\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Agente.dll
+G:\Willis\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Agente.pdb
+G:\Willis\WS_GENASYS\WS_GENASYS.Service\obj\Release\ResolveAssemblyReference.cache
+G:\Willis\WS_GENASYS\WS_GENASYS.Service\obj\Release\WS_GENASYS.Service.dll
+G:\Willis\WS_GENASYS\WS_GENASYS.Service\obj\Release\WS_GENASYS.Service.pdb
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Service.dll
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Service.pdb
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Agente.dll
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.Service\bin\Release\WS_GENASYS.Agente.pdb
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.Service\obj\Release\ResolveAssemblyReference.cache
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.Service\obj\Release\WS_GENASYS.Service.dll
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.Service\obj\Release\WS_GENASYS.Service.pdb

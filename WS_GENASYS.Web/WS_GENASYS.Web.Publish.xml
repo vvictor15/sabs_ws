@@ -1,0 +1,132 @@
+<publishData>
+  <publishTarget publishUrl="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Public\Compilado1807\">
+    <file relUrl="Global.asax" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Web.pdb" publishTime="07/18/2017 15:56:06" />
+    <file relUrl="DatosPersonalesService.svc" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Agente.dll" publishTime="07/18/2017 15:56:05" />
+    <file relUrl="Web.config" publishTime="07/18/2017 15:47:34" />
+    <file relUrl="bin/WS_GENASYS.Service.dll" publishTime="07/18/2017 15:56:06" />
+    <file relUrl="bin/WS_GENASYS.Web.dll" publishTime="07/18/2017 15:56:07" />
+    <file relUrl="bin/WS_GENASYS.Agente.pdb" publishTime="07/18/2017 15:56:05" />
+    <file relUrl="bin/WS_GENASYS.Service.pdb" publishTime="07/18/2017 15:56:05" />
+    <file relUrl="bin/vssver2.scc" publishTime="11/04/2016 18:05:04" />
+    <file relUrl="bin/log4net.dll" publishTime="07/05/2016 14:55:15" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Public\Compilado1107\">
+    <file relUrl="Global.asax" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Web.pdb" publishTime="07/11/2017 10:13:40" />
+    <file relUrl="DatosPersonalesService.svc" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Agente.dll" publishTime="07/11/2017 10:13:39" />
+    <file relUrl="Web.config" publishTime="07/10/2017 16:40:53" />
+    <file relUrl="bin/WS_GENASYS.Service.dll" publishTime="07/11/2017 10:13:40" />
+    <file relUrl="bin/WS_GENASYS.Web.dll" publishTime="07/11/2017 10:13:41" />
+    <file relUrl="bin/WS_GENASYS.Agente.pdb" publishTime="07/11/2017 10:13:38" />
+    <file relUrl="bin/WS_GENASYS.Service.pdb" publishTime="07/11/2017 10:13:39" />
+    <file relUrl="bin/vssver2.scc" publishTime="11/04/2016 18:05:04" />
+    <file relUrl="bin/log4net.dll" publishTime="07/05/2016 14:55:15" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Public\Compilado1007\">
+    <file relUrl="Global.asax" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Web.pdb" publishTime="07/10/2017 16:58:23" />
+    <file relUrl="DatosPersonalesService.svc" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Agente.dll" publishTime="07/10/2017 16:58:21" />
+    <file relUrl="Web.config" publishTime="07/10/2017 16:40:53" />
+    <file relUrl="bin/WS_GENASYS.Service.dll" publishTime="07/10/2017 16:58:22" />
+    <file relUrl="bin/WS_GENASYS.Web.dll" publishTime="07/10/2017 16:58:23" />
+    <file relUrl="bin/WS_GENASYS.Agente.pdb" publishTime="07/10/2017 16:58:21" />
+    <file relUrl="bin/WS_GENASYS.Service.pdb" publishTime="07/10/2017 16:58:22" />
+    <file relUrl="bin/vssver2.scc" publishTime="11/04/2016 18:05:04" />
+    <file relUrl="bin/log4net.dll" publishTime="07/05/2016 14:55:15" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Public\Compilado2206\">
+    <file relUrl="Global.asax" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Web.pdb" publishTime="06/22/2017 18:15:12" />
+    <file relUrl="DatosPersonalesService.svc" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Agente.dll" publishTime="06/20/2017 10:40:05" />
+    <file relUrl="Web.config" publishTime="06/22/2017 18:14:42" />
+    <file relUrl="bin/WS_GENASYS.Service.dll" publishTime="06/22/2017 18:15:12" />
+    <file relUrl="bin/WS_GENASYS.Web.dll" publishTime="06/22/2017 18:15:12" />
+    <file relUrl="bin/WS_GENASYS.Agente.pdb" publishTime="06/20/2017 10:40:05" />
+    <file relUrl="bin/WS_GENASYS.Service.pdb" publishTime="06/22/2017 18:15:12" />
+    <file relUrl="bin/vssver2.scc" publishTime="11/04/2016 18:05:04" />
+    <file relUrl="bin/log4net.dll" publishTime="07/05/2016 14:55:15" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Public\Compilado2006-2\">
+    <file relUrl="Global.asax" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Web.pdb" publishTime="06/20/2017 11:25:11" />
+    <file relUrl="DatosPersonalesService.svc" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Agente.dll" publishTime="06/20/2017 10:40:05" />
+    <file relUrl="Web.config" publishTime="06/14/2017 10:29:06" />
+    <file relUrl="bin/WS_GENASYS.Service.dll" publishTime="06/20/2017 11:25:10" />
+    <file relUrl="bin/WS_GENASYS.Web.dll" publishTime="06/20/2017 11:25:11" />
+    <file relUrl="bin/WS_GENASYS.Agente.pdb" publishTime="06/20/2017 10:40:05" />
+    <file relUrl="bin/WS_GENASYS.Service.pdb" publishTime="06/20/2017 11:25:10" />
+    <file relUrl="bin/vssver2.scc" publishTime="11/04/2016 18:05:04" />
+    <file relUrl="bin/log4net.dll" publishTime="07/05/2016 14:55:15" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Public\Compilado2006\">
+    <file relUrl="Global.asax" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Web.pdb" publishTime="06/20/2017 09:53:21" />
+    <file relUrl="DatosPersonalesService.svc" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Agente.dll" publishTime="06/07/2017 14:14:00" />
+    <file relUrl="Web.config" publishTime="06/14/2017 10:29:06" />
+    <file relUrl="bin/WS_GENASYS.Service.dll" publishTime="06/20/2017 09:53:20" />
+    <file relUrl="bin/WS_GENASYS.Web.dll" publishTime="06/20/2017 09:53:21" />
+    <file relUrl="bin/WS_GENASYS.Agente.pdb" publishTime="06/07/2017 14:14:00" />
+    <file relUrl="bin/WS_GENASYS.Service.pdb" publishTime="06/20/2017 09:53:19" />
+    <file relUrl="bin/vssver2.scc" publishTime="11/04/2016 18:05:04" />
+    <file relUrl="bin/log4net.dll" publishTime="07/05/2016 14:55:15" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Public\Compilado0706\">
+    <file relUrl="Global.asax" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Web.pdb" publishTime="06/07/2017 14:14:01" />
+    <file relUrl="DatosPersonalesService.svc" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Agente.dll" publishTime="06/07/2017 14:14:00" />
+    <file relUrl="Web.config" publishTime="06/07/2017 14:07:21" />
+    <file relUrl="bin/WS_GENASYS.Service.dll" publishTime="06/07/2017 14:14:01" />
+    <file relUrl="bin/WS_GENASYS.Web.dll" publishTime="06/07/2017 14:14:01" />
+    <file relUrl="bin/WS_GENASYS.Agente.pdb" publishTime="06/07/2017 14:14:00" />
+    <file relUrl="bin/WS_GENASYS.Service.pdb" publishTime="06/07/2017 14:14:00" />
+    <file relUrl="bin/vssver2.scc" publishTime="11/04/2016 18:05:04" />
+    <file relUrl="bin/log4net.dll" publishTime="07/05/2016 14:55:15" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Public\Compilado0106\">
+    <file relUrl="Global.asax" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Web.pdb" publishTime="06/01/2017 17:53:13" />
+    <file relUrl="DatosPersonalesService.svc" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Agente.dll" publishTime="06/01/2017 17:53:12" />
+    <file relUrl="Web.config" publishTime="05/31/2017 10:43:41" />
+    <file relUrl="bin/WS_GENASYS.Service.dll" publishTime="06/01/2017 17:53:13" />
+    <file relUrl="bin/WS_GENASYS.Web.dll" publishTime="06/01/2017 17:53:14" />
+    <file relUrl="bin/WS_GENASYS.Agente.pdb" publishTime="06/01/2017 17:53:12" />
+    <file relUrl="bin/WS_GENASYS.Service.pdb" publishTime="06/01/2017 17:53:13" />
+    <file relUrl="bin/vssver2.scc" publishTime="11/04/2016 18:05:04" />
+    <file relUrl="bin/log4net.dll" publishTime="07/05/2016 14:55:15" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Public\Compilado3005\">
+    <file relUrl="Global.asax" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Web.pdb" publishTime="05/30/2017 15:03:51" />
+    <file relUrl="DatosPersonalesService.svc" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Agente.dll" publishTime="05/30/2017 15:03:50" />
+    <file relUrl="Web.config" publishTime="05/30/2017 15:03:15" />
+    <file relUrl="bin/WS_GENASYS.Service.dll" publishTime="05/30/2017 15:03:51" />
+    <file relUrl="bin/WS_GENASYS.Web.dll" publishTime="05/30/2017 15:03:52" />
+    <file relUrl="bin/WS_GENASYS.Agente.pdb" publishTime="05/30/2017 15:03:50" />
+    <file relUrl="bin/WS_GENASYS.Service.pdb" publishTime="05/30/2017 15:03:51" />
+    <file relUrl="bin/vssver2.scc" publishTime="11/04/2016 18:05:04" />
+    <file relUrl="bin/log4net.dll" publishTime="07/05/2016 14:55:15" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Public\">
+    <file relUrl="Global.asax" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Web.pdb" publishTime="04/10/2017 15:51:49" />
+    <file relUrl="DatosPersonalesService.svc" publishTime="07/05/2016 14:55:15" />
+    <file relUrl="bin/WS_GENASYS.Agente.dll" publishTime="04/10/2017 12:14:14" />
+    <file relUrl="Web.config" publishTime="04/10/2017 12:15:06" />
+    <file relUrl="bin/WS_GENASYS.Service.dll" publishTime="04/10/2017 15:51:49" />
+    <file relUrl="bin/WS_GENASYS.Web.dll" publishTime="04/10/2017 15:51:49" />
+    <file relUrl="bin/WS_GENASYS.Agente.pdb" publishTime="04/10/2017 12:14:14" />
+    <file relUrl="bin/WS_GENASYS.Service.pdb" publishTime="04/10/2017 15:51:49" />
+    <file relUrl="bin/vssver2.scc" publishTime="11/04/2016 18:05:04" />
+    <file relUrl="bin/log4net.dll" publishTime="07/05/2016 14:55:15" />
+  </publishTarget>
+</publishData>

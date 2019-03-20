@@ -1,0 +1,119 @@
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+D:\1_Personal\WS_GENASYS\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\Fuentes\v2\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\Fuentes\v2\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\Fuentes\v2\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\Fuentes\v2\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\Fuentes\v2\WSBCP\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\v2\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\Fuentes\v2\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\Fuentes\v5\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\Fuentes\v5\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\Fuentes\v5\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\Fuentes\v5\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\Fuentes\v5\WSBCP\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\v5\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\Fuentes\v5\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.dll
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Service.pdb
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.dll
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.Service\bin\Debug\WS_GENASYS.Agente.pdb
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.csprojResolveAssemblyReference.cache
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.dll
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.Service\obj\Debug\WS_GENASYS.Service.pdb
