@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="104afb21-1690-41f5-856e-b7c2986bc41a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\Archivos\ParConsultaCerV3\MBRK_CltDatosGralInqV3.wsdl" Protocol="file" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MFX11_CltDatosGralInqV3.xsd" MetadataType="Schema" ID="af446ac0-68a1-470a-adc1-326784200c40" SourceId="1" SourceUrl="file:///C:/Rmarcatincoc/INFODATA/Desarrollo/TK000078544 - Mejoras en la Web/Entregables/WebServices/Archivos/ParConsultaCerV3/xsd/MFX11_CltDatosGralInqV3.xsd" />
+    <MetadataFile FileName="MS_MB_CltDatosGralInqV3.wsdl" MetadataType="Wsdl" ID="aa965f1f-2118-4c40-a59c-8e33be574647" SourceId="1" SourceUrl="file:///C:/Rmarcatincoc/INFODATA/Desarrollo/TK000078544 - Mejoras en la Web/Entregables/WebServices/Archivos/ParConsultaCerV3/MBRK_CltDatosGralInqV3.wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

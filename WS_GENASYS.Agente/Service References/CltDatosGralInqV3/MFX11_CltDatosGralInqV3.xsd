@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:mfx11="http://mfxV1_1/CltDatosGralInqV3" xmlns="http://mfxV1_1/CltDatosGralInqV3" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://mfxV1_1/CltDatosGralInqV3" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="RqUID" type="mfx11:UUID" />
+  <xsd:element name="MsjRqHdr" type="mfx11:MsjRqHdr_Type" />
+  <xsd:element name="MsjRsHdr" type="mfx11:MsjRsHdr_Type" />
+  <xsd:element name="Status" type="mfx11:Status_Type" />
+  <xsd:element name="SegRqHdr" type="mfx11:SegRqHdr_Type" />
+  <xsd:element name="SegRsHdr" type="mfx11:SegRsHdr_Type" />
+  <xsd:element name="CtxRqHdr" type="mfx11:CtxRqHdr_Type" />
+  <xsd:element name="CtxRsHdr" type="mfx11:CtxRsHdr_Type" />
+  <xsd:element name="OpnInfoRqHdr" type="mfx11:OpnInfoRqHdr_Type" />
+  <xsd:element name="StatusCod" type="xsd:string" />
+  <xsd:element name="Severidad" type="mfx11:Severidad_Type" />
+  <xsd:element name="StatusDes" type="xsd:string" />
+  <xsd:element name="ServStatus" type="mfx11:ServStatus_Type" />
+  <xsd:element name="StatusAdicLst" type="mfx11:StatusAdicLst_Type" />
+  <xsd:element name="ProdEmpAutzFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="ProdEspAutzFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="TrnNivelAutz" type="mfx11:TrnNivelAutz_Type" />
+  <xsd:element name="CredencialRqHdrLst" type="mfx11:CredencialRqHdrLst_Type" />
+  <xsd:element name="CredencialRsHdr" type="mfx11:CredencialRsHdr_Type" />
+  <xsd:element name="ServFec" type="xsd:dateTime" />
+  <xsd:element name="ServTrmId" type="xsd:string" />
+  <xsd:element name="ClientFec" type="xsd:dateTime" />
+  <xsd:element name="ClientTrmId" type="mfx11:ClientTrmId_Type" />
+  <xsd:element name="OpnNro" type="mfx11:OpnNro_Type" />
+  <xsd:element name="OpnExtornoNro" type="mfx11:OpnNro_Type" />
+  <xsd:element name="ClientApp" type="mfx11:ClientApp_Type" />
+  <xsd:element name="ClientProxy" type="mfx11:ClientProxy_Type" />
+  <xsd:element name="StoreForwardFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="ReenvioFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="SucursalCod" type="mfx11:SucursalCod_Type" />
+  <xsd:element name="ExtornoFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="AgenciaCod" type="mfx11:AgenciaCod_Type" />
+  <xsd:element name="SPCod" type="mfx11:AppCod_Type" />
+  <xsd:element name="ServStatusCod" type="mfx11:ServStatusCod_Type" />
+  <xsd:element name="Ctd" type="xsd:long" />
+  <xsd:element name="StatusAdic" type="mfx11:StatusAdic_Type" />
+  <xsd:element name="CredencialRqHdr" type="mfx11:CredencialRqHdr_Type" />
+  <xsd:element name="ClientTrmServ" type="mfx11:ClientTrmServ_Type" />
+  <xsd:element name="ClientTrmApp" type="mfx11:ClientTrmApp_Type" />
+  <xsd:element name="OrgCod" type="mfx11:OrgCod_Type" />
+  <xsd:element name="ClientCtxIdLst" type="mfx11:ClientCtxIdLst_Type" />
+  <xsd:element name="ClientCod" type="mfx11:AppCod_Type" />
+  <xsd:element name="ClientCodAdic" type="mfx11:AppCodAdic_Type" />
+  <xsd:element name="Ver" type="mfx11:Ver_Type" />
+  <xsd:element name="NroSec" type="xsd:long" />
+  <xsd:element name="SegRol" type="mfx11:SegRol_Type" />
+  <xsd:element name="GenSesTokenFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="SegTokenUsr" type="mfx11:SegTokenUsr_Type" />
+  <xsd:element name="SegTokenCard" type="mfx11:SegTokenCard_Type" />
+  <xsd:element name="SegTokenKey" type="mfx11:SegTokenKey_Type" />
+  <xsd:element name="SegTokenLogin" type="mfx11:SegTokenLogin_Type" />
+  <xsd:element name="SegTokenRpta" type="mfx11:SegTokenRpta_Type" />
+  <xsd:element name="ClientCtxId" type="mfx11:ClientCtxId_Type" />
+  <xsd:element name="Login" type="mfx11:Login_Type" />
+  <xsd:element name="CardInqRef" type="mfx11:CardInqRef_Type" />
+  <xsd:element name="SesKey" type="xsd:string" />
+  <xsd:element name="Password" type="mfx11:Password_Type" />
+  <xsd:element name="PasswordAdic" type="xsd:string" />
+  <xsd:element name="SegSecreto" type="xsd:string" />
+  <xsd:element name="EncrTp" type="xsd:string" />
+  <xsd:element name="SegRpta" type="xsd:string" />
+  <xsd:element name="SegRptaEncr" type="xsd:string" />
+  <xsd:element name="ClientCtxIdTp" type="mfx11:ClientCtxIdTp_Type" />
+  <xsd:element name="ClientCtxIdVal" type="mfx11:ClientCtxIdVal_Type" />
+  <xsd:element name="ProdNro" type="mfx11:ProdNro_Type" />
+  <xsd:element name="ClsEstProdCod" type="mfx11:ClsEstProdCod_Type" />
+  <xsd:element name="MonCod" type="mfx11:MonCod_Type" />
+  <xsd:element name="CardSec" type="xsd:string" />
+  <xsd:element name="PasswordVal" type="xsd:string" />
+  <xsd:element name="PasswordEncr" type="xsd:string" />
+  <xsd:element name="OpnRef" type="xsd:string" />
+  <xsd:simpleType name="UUID">
+    <xsd:annotation>
+      <xsd:documentation>Un valor que se utiliza como identificador unico</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:string">
+      <xsd:length value="36" />
+      <xsd:pattern value="([0-9a-fA-F]){8}(-([0-9a-fA-F]){4})(-([0-9a-fA-F]){4})(-([0-9a-fA-F]){4})(-([0-9a-fA-F]){12})" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="Severidad_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="Informacion" />
+      <xsd:enumeration value="Advertencia" />
+      <xsd:enumeration value="Error" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="TrueFalse">
+    <xsd:annotation>
+      <xsd:documentation>TrueFalse indica una condicion de Verdad=1 o Falso=0</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="0" />
+      <xsd:enumeration value="1" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="FecHr">
+    <xsd:annotation>
+      <xsd:documentation>Fecha y Hora flexible en contenido, similar al tipo xsd:dateTime, pero con la parte de la hora alternativa</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[1-9][0-9]{3}-((0[1-9])|(1[0-2]))-((0[1-9])|([1-2][0-9])|(3[0-1]))(T(([0-1][0-9])|(2[0-4])):[0-5][0-9]:[0-5][0-9](\.[0-9]+)?)?((-|\+)[0-1][0-4]:[0-5][0-9])?" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="TrnNivelAutz_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="Normal" />
+      <xsd:enumeration value="UsuarioRq" />
+      <xsd:enumeration value="UsuarioSupervisor" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="OpnNro_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="8" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="SucursalCod_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9a-zA-Z]{3}" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="AgenciaCod_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9a-zA-Z]{3}" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="AppCod_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9a-zA-Z]{2}" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="ServStatusCod_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="20" />
+      <xsd:minLength value="1" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="ClientTrmServ_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="4" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="ClientTrmApp_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="15" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="OrgCod_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:length value="1" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="AppCodAdic_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9a-zA-Z]{4}" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="Ver_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="5" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="SegRol_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="UsuarioApp" />
+      <xsd:enumeration value="UsuarioRq" />
+      <xsd:enumeration value="UsuarioSupervisor" />
+      <xsd:enumeration value="UsuarioCard" />
+      <xsd:enumeration value="UsuarioVirtual" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="Login_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="20" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="ClientCtxIdTp_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="20" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="ClientCtxIdVal_Type">
+    <xsd:restriction base="xsd:string" />
+  </xsd:simpleType>
+  <xsd:simpleType name="ProdNro_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="20" />
+      <xsd:pattern value="[0-9a-zA-Z]+" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="ClsEstProdCod_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:length value="3" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="MonCod_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9]{4}" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:complexType name="MsjRqHdr_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:SegRqHdr" />
+      <xsd:element ref="mfx11:CtxRqHdr" />
+      <xsd:element minOccurs="0" ref="mfx11:OpnInfoRqHdr" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="MsjRsHdr_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:SegRsHdr" />
+      <xsd:element minOccurs="0" ref="mfx11:CtxRsHdr" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="Status_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:StatusCod" />
+      <xsd:element ref="mfx11:Severidad" />
+      <xsd:element minOccurs="0" ref="mfx11:StatusDes" />
+      <xsd:element minOccurs="0" ref="mfx11:ServStatus" />
+      <xsd:element minOccurs="0" ref="mfx11:StatusAdicLst" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="SegRqHdr_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:ProdEmpAutzFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:ProdEspAutzFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:TrnNivelAutz" />
+      <xsd:element ref="mfx11:CredencialRqHdrLst" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="SegRsHdr_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Ctd" />
+      <xsd:element maxOccurs="unbounded" ref="mfx11:CredencialRsHdr" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CtxRqHdr_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:ClientFec" />
+      <xsd:element minOccurs="0" ref="mfx11:ClientTrmId" />
+      <xsd:element ref="mfx11:OpnNro" />
+      <xsd:element minOccurs="0" ref="mfx11:OpnExtornoNro" />
+      <xsd:element ref="mfx11:ClientApp" />
+      <xsd:element minOccurs="0" ref="mfx11:ClientProxy" />
+      <xsd:element minOccurs="0" ref="mfx11:StoreForwardFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:ReenvioFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:SucursalCod" />
+      <xsd:element minOccurs="0" ref="mfx11:ExtornoFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:AgenciaCod" />
+      <xsd:element minOccurs="0" ref="mfx11:SPCod" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CtxRsHdr_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:ServFec" />
+      <xsd:element minOccurs="0" ref="mfx11:ClientTrmId" />
+      <xsd:element ref="mfx11:OpnNro" />
+      <xsd:element ref="mfx11:ClientApp" />
+      <xsd:element minOccurs="0" ref="mfx11:SPCod" />
+      <xsd:element minOccurs="0" ref="mfx11:ServTrmId" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="OpnInfoRqHdr_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:TrnTp" />
+      <xsd:element ref="mfx11:OpnRef" />
+      <xsd:element minOccurs="0" ref="mfx11:IDC" />
+      <xsd:element minOccurs="0" ref="mfx11:ProdNro" />
+      <xsd:element minOccurs="0" ref="mfx11:Mto" />
+      <xsd:element minOccurs="0" ref="mfx11:MonCod" />
+      <xsd:element minOccurs="0" ref="mfx11:MtoTpCambioMon" />
+      <xsd:element minOccurs="0" ref="mfx11:ClientCtxIdLst" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="ServStatus_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:ServStatusCod" />
+      <xsd:element minOccurs="0" ref="mfx11:Severidad" />
+      <xsd:element ref="mfx11:StatusDes" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="StatusAdicLst_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Ctd" />
+      <xsd:element maxOccurs="unbounded" ref="mfx11:StatusAdic" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CredencialRqHdrLst_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Ctd" />
+      <xsd:element maxOccurs="unbounded" ref="mfx11:CredencialRqHdr" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CredencialRsHdr_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:Status" />
+      <xsd:element minOccurs="0" ref="mfx11:NroSec" />
+      <xsd:element minOccurs="0" ref="mfx11:SesKey" />
+      <xsd:element minOccurs="0" ref="mfx11:FecVct" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="ClientTrmId_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:ClientTrmServ" />
+      <xsd:element minOccurs="0" ref="mfx11:ClientTrmApp" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="ClientApp_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:OrgCod" />
+      <xsd:element minOccurs="0" ref="mfx11:ClientCtxIdLst" />
+      <xsd:element ref="mfx11:ClientCod" />
+      <xsd:element minOccurs="0" ref="mfx11:ClientCodAdic" />
+      <xsd:element minOccurs="0" ref="mfx11:Ver" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="ClientProxy_Type">
+    <xsd:complexContent mixed="false">
+      <xsd:extension base="mfx11:ClientApp_Type" />
+    </xsd:complexContent>
+  </xsd:complexType>
+  <xsd:complexType name="StatusAdic_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:StatusCod" />
+      <xsd:element minOccurs="0" ref="mfx11:Severidad" />
+      <xsd:element minOccurs="0" ref="mfx11:StatusDes" />
+      <xsd:element minOccurs="0" ref="mfx11:ServStatus" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CredencialRqHdr_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:NroSec" />
+      <xsd:element ref="mfx11:SegRol" />
+      <xsd:element minOccurs="0" ref="mfx11:GenSesTokenFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:SegTokenUsr" />
+      <xsd:element minOccurs="0" ref="mfx11:SegTokenCard" />
+      <xsd:element minOccurs="0" ref="mfx11:SegTokenKey" />
+      <xsd:element minOccurs="0" ref="mfx11:SegTokenLogin" />
+      <xsd:element minOccurs="0" ref="mfx11:SegTokenRpta" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="ClientCtxIdLst_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Ctd" />
+      <xsd:element maxOccurs="unbounded" ref="mfx11:ClientCtxId" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="SegTokenUsr_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Login" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="SegTokenCard_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:CardInqRef" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="SegTokenKey_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:SesKey" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="SegTokenLogin_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Login" />
+      <xsd:element ref="mfx11:Password" />
+      <xsd:element minOccurs="0" ref="mfx11:PasswordAdic" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="SegTokenRpta_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:SegSecreto" />
+      <xsd:element minOccurs="0" ref="mfx11:EncrTp" />
+      <xsd:element minOccurs="0" ref="mfx11:SegRpta" />
+      <xsd:element minOccurs="0" ref="mfx11:SegRptaEncr" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="ClientCtxId_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:ClientCtxIdTp" />
+      <xsd:element ref="mfx11:ClientCtxIdVal" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CardInqRef_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:ProdNro" />
+      <xsd:element minOccurs="0" ref="mfx11:ClsEstProdCod" />
+      <xsd:element minOccurs="0" ref="mfx11:MonCod" />
+      <xsd:element minOccurs="0" ref="mfx11:CardSec" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="Password_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:EncrTp" />
+      <xsd:element minOccurs="0" ref="mfx11:PasswordVal" />
+      <xsd:element minOccurs="0" ref="mfx11:PasswordEncr" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:simpleType name="Porc_Type">
+    <xsd:annotation>
+      <xsd:documentation>Tipo usado para cualquier pocentaje o tasa</xsd:documentation>
+    </xsd:annotation>
+    <xsd:restriction base="xsd:decimal">
+      <xsd:fractionDigits value="6" />
+      <xsd:minInclusive value="-9999.999999" />
+      <xsd:maxInclusive value="9999.999999" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:element name="CltDatosGralInqRef" type="mfx11:CltDatosGralInqRef_Type" />
+  <xsd:element name="CltDatosGralInqReg" type="mfx11:CltDatosGralInqReg_Type" />
+  <xsd:element name="CltDatosAutz" type="mfx11:CltDatosAutz_Type" />
+  <xsd:element name="CltDatosAutzLst" type="mfx11:CltDatosAutzLst_Type" />
+  <xsd:element name="CltDatosAutzTp" type="xsd:string" />
+  <xsd:element name="CltDatosAutzVal" type="mfx11:CltDatosAutzVal_Type" />
+  <xsd:element name="AccionTp" type="xsd:string" />
+  <xsd:element name="AddFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="AEP" type="mfx11:AEP_Type" />
+  <xsd:element name="AgenciaDes" type="xsd:string" />
+  <xsd:element name="ApellidoMaterno" type="xsd:string" />
+  <xsd:element name="ApellidoPaterno" type="xsd:string" />
+  <xsd:element name="AporteTp" type="xsd:string" />
+  <xsd:element name="AporteValor" type="xsd:long" />
+  <xsd:element name="BancaSegmtCod" type="mfx11:BancaSegmtCod_Type" />
+  <xsd:element name="BancaSegmtCodAdic" type="xsd:string" />
+  <xsd:element name="BancaSubSegmtCod" type="xsd:string" />
+  <xsd:element name="BancaSubSegmtDes" type="xsd:string" />
+  <xsd:element name="BancaTp" type="xsd:string" />
+  <xsd:element name="BancoSectorCod" type="xsd:string" />
+  <xsd:element name="BancoSectorDes" type="xsd:string" />
+  <xsd:element name="BcoConvenioFlg" type="xsd:string" />
+  <xsd:element name="CalifClt" type="xsd:string" />
+  <xsd:element name="CalifOrgSupBco" type="xsd:string" />
+  <xsd:element name="CalifRiesgos" type="xsd:string" />
+  <xsd:element name="CartTp" type="xsd:string" />
+  <xsd:element name="CatEconom" type="xsd:string" />
+  <xsd:element name="CEMNro" type="xsd:string" />
+  <xsd:element name="CEMNroSec" type="xsd:string" />
+  <xsd:element name="CEMStatus" type="xsd:string" />
+  <xsd:element name="CIC" type="mfx11:CIC_Type" />
+  <xsd:element name="CIIU" type="xsd:string" />
+  <xsd:element name="CIIUAdic" type="xsd:string" />
+  <xsd:element name="Ciudad" type="xsd:string" />
+  <xsd:element name="ClsRiesgoInfo" type="mfx11:ClsRiesgoInfo_Type" />
+  <xsd:element name="CltBancoRelaCod" type="xsd:string" />
+  <xsd:element name="CltBancoRelaDes" type="xsd:string" />
+  <xsd:element name="CltEmp" type="mfx11:CltEmp_Type" />
+  <xsd:element name="CltExclusivoTp" type="xsd:string" />
+  <xsd:element name="CltFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="CltInfo" type="mfx11:CltInfo_Type" />
+  <xsd:element name="CltNegativoCod" type="xsd:string" />
+  <xsd:element name="CltNegativoDes" type="xsd:string" />
+  <xsd:element name="CltNom" type="mfx11:CltNom_Type" />
+  <xsd:element name="CltPEPTp" type="xsd:string" />
+  <xsd:element name="CltRelaAC" type="mfx11:CltRelaAC_Type" />
+  <xsd:element name="CltRelaClts" type="mfx11:CltRelaClts_Type" />
+  <xsd:element name="CltRelaCltsLst" type="mfx11:CltRelaCltsLst_Type" />
+  <xsd:element name="CltSegmtCod" type="xsd:string" />
+  <xsd:element name="CltSegmtDes" type="xsd:string" />
+  <xsd:element name="CltSensibleDes" type="xsd:string" />
+  <xsd:element name="CltSensibleTp" type="xsd:string" />
+  <xsd:element name="CltSubSegmtCod" type="xsd:string" />
+  <xsd:element name="CltSubSegmtDes" type="xsd:string" />
+  <xsd:element name="CltTp" type="xsd:string" />
+  <xsd:element name="CltTpAdic" type="xsd:string" />
+  <xsd:element name="CodPst" type="xsd:string" />
+  <xsd:element name="ConyugueNom" type="xsd:string" />
+  <xsd:element name="CtaUsoTp" type="xsd:string" />
+  <xsd:element name="CtdDependientes" type="xsd:long" />
+  <xsd:element name="Departamento" type="xsd:string" />
+  <xsd:element name="Des" type="xsd:string" />
+  <xsd:element name="DirEst" type="mfx11:DirEst_Type" />
+  <xsd:element name="DirEstLst" type="mfx11:DirEstLst_Type" />
+  <xsd:element name="DirLinea1" type="xsd:string" />
+  <xsd:element name="DirLinea2" type="xsd:string" />
+  <xsd:element name="DirLinea3" type="xsd:string" />
+  <xsd:element name="DirLinea4" type="xsd:string" />
+  <xsd:element name="DirNacimiento" type="mfx11:DirPst_Type" />
+  <xsd:element name="DirPst" type="mfx11:DirPst_Type" />
+  <xsd:element name="DirTp" type="xsd:string" />
+  <xsd:element name="Distrito" type="xsd:string" />
+  <xsd:element name="DptoNro" type="xsd:string" />
+  <xsd:element name="DptoTp" type="xsd:string" />
+  <xsd:element name="Email" type="xsd:string" />
+  <xsd:element name="EmpCatTp" type="xsd:string" />
+  <xsd:element name="EmpleadoCargo" type="xsd:string" />
+  <xsd:element name="EmpleadorCod" type="xsd:string" />
+  <xsd:element name="EmpleadorDir" type="xsd:string" />
+  <xsd:element name="EmpleadorNom" type="xsd:string" />
+  <xsd:element name="EmpleadorPlanCod" type="xsd:string" />
+  <xsd:element name="EmpleadorRUC" type="xsd:string" />
+  <xsd:element name="EmpleadorTlf" type="xsd:string" />
+  <xsd:element name="EmpleadorUbiGeo" type="xsd:string" />
+  <xsd:element name="EmpNaturTp" type="xsd:string" />
+  <xsd:element name="EmpNom" type="xsd:string" />
+  <xsd:element name="EmpOrigen" type="xsd:string" />
+  <xsd:element name="EmpSedeTp" type="xsd:string" />
+  <xsd:element name="EmpTp" type="xsd:string" />
+  <xsd:element name="Fec" type="mfx11:FecHr" />
+  <xsd:element name="FecCreacion" type="mfx11:FecHr" />
+  <xsd:element name="FecEft" type="mfx11:FecHr" />
+  <xsd:element name="FecFallecido" type="xsd:date" />
+  <xsd:element name="FecFin" type="mfx11:FecHr" />
+  <xsd:element name="FecIni" type="mfx11:FecHr" />
+  <xsd:element name="FecNacimiento" type="xsd:date" />
+  <xsd:element name="FecProc" type="mfx11:FecHr" />
+  <xsd:element name="FecSgtRevision" type="xsd:date" />
+  <xsd:element name="FecUltAct" type="mfx11:FecHr" />
+  <xsd:element name="FecUpd" type="mfx11:FecHr" />
+  <xsd:element name="FecVct" type="mfx11:FecHr" />
+  <xsd:element name="FecVld" type="mfx11:FecHr" />
+  <xsd:element name="FirmaFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="Genero" type="xsd:string" />
+  <xsd:element name="IDC" type="mfx11:IDC_Type" />
+  <xsd:element name="IdSec" type="xsd:string" />
+  <xsd:element name="IngBrutoTp" type="xsd:string" />
+  <xsd:element name="Lt" type="xsd:string" />
+  <xsd:element name="MadreNom" type="xsd:string" />
+  <xsd:element name="MasivoFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="Mto" type="mfx11:Mto_Type" />
+  <xsd:element name="MtoCEM" type="mfx11:MtoMon_Type" />
+  <xsd:element name="MtoDisp" type="mfx11:MtoMon_Type" />
+  <xsd:element name="MtoEft" type="mfx11:MtoMon_Type" />
+  <xsd:element name="MtoIngBruto" type="mfx11:MtoMon_Type" />
+  <xsd:element name="MtoMax" type="mfx11:MtoMon_Type" />
+  <xsd:element name="MtoRentBanco" type="mfx11:MtoMon_Type" />
+  <xsd:element name="MtoTp" type="mfx11:MtoTp_Type" />
+  <xsd:element name="MtoTpCambioMon" type="mfx11:Porc_Type" />
+  <xsd:element name="MtoTpLst" type="mfx11:MtoTpLst_Type" />
+  <xsd:element name="MtoUsado" type="mfx11:MtoMon_Type" />
+  <xsd:element name="MtoVta" type="mfx11:MtoMon_Type" />
+  <xsd:element name="Mz" type="xsd:string" />
+  <xsd:element name="Nacionalidad" type="xsd:string" />
+  <xsd:element name="NivelEducacion" type="xsd:string" />
+  <xsd:element name="NomCompleto" type="xsd:string" />
+  <xsd:element name="NomCorto" type="xsd:string" />
+  <xsd:element name="OpnSec" type="xsd:string" />
+  <xsd:element name="OpnTp" type="xsd:string" />
+  <xsd:element name="OrgSupBcoCod" type="xsd:string" />
+  <xsd:element name="OrigenCod" type="xsd:string" />
+  <xsd:element name="PadreNom" type="xsd:string" />
+  <xsd:element name="PagHaberesFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="Pais" type="mfx11:Pais_Type" />
+  <xsd:element name="Profesion" type="xsd:string" />
+  <xsd:element name="PropiedadCasaTp" type="xsd:string" />
+  <xsd:element name="Provincia" type="xsd:string" />
+  <xsd:element name="RangoMilitar" type="xsd:string" />
+  <xsd:element name="RangoMurcCod" type="xsd:string" />
+  <xsd:element name="RangoMurcDes" type="xsd:string" />
+  <xsd:element name="RangoVta" type="xsd:string" />
+  <xsd:element name="Region" type="xsd:string" />
+  <xsd:element name="RegMercantil" type="xsd:string" />
+  <xsd:element name="RelaCod" type="xsd:string" />
+  <xsd:element name="RelaDes" type="xsd:string" />
+  <xsd:element name="RelaTp" type="xsd:string" />
+  <xsd:element name="ResidenteFlg" type="mfx11:TrueFalse" />
+  <xsd:element name="RUC" type="xsd:string" />
+  <xsd:element name="SectoristaCod" type="xsd:string" />
+  <xsd:element name="SectoristaCodAdic" type="xsd:string" />
+  <xsd:element name="SectoristaNom" type="xsd:string" />
+  <xsd:element name="SectoristaNomAdic" type="xsd:string" />
+  <xsd:element name="SectorNom" type="xsd:string" />
+  <xsd:element name="SectorTp" type="xsd:string" />
+  <xsd:element name="SelFlg" type="mfx11:SelFlg_Type" />
+  <xsd:element name="StatusCivil" type="xsd:string" />
+  <xsd:element name="StatusInmigracion" type="xsd:string" />
+  <xsd:element name="StatusOcupacional" type="xsd:string" />
+  <xsd:element name="SucursalDes" type="xsd:string" />
+  <xsd:element name="SvcSelector" type="mfx11:SvcSelector_Type" />
+  <xsd:element name="TagNom" type="xsd:string" />
+  <xsd:element name="TagTemporal" type="mfx11:TagTemporal_Type" />
+  <xsd:element name="TagTemporalLst" type="mfx11:TagTemporalLst_Type" />
+  <xsd:element name="TagVal" type="xsd:string" />
+  <xsd:element name="TlfClt" type="xsd:string" />
+  <xsd:element name="TlfDomicilio" type="xsd:string" />
+  <xsd:element name="TlfOficina" type="xsd:string" />
+  <xsd:element name="TrnTp" type="xsd:string" />
+  <xsd:element name="UbiCod" type="xsd:string" />
+  <xsd:element name="Ubigeo" type="xsd:string" />
+  <xsd:element name="UrbNom" type="xsd:string" />
+  <xsd:element name="UrbTp" type="xsd:string" />
+  <xsd:element name="ViaNom" type="xsd:string" />
+  <xsd:element name="ViaNro" type="xsd:string" />
+  <xsd:element name="ViaTp" type="xsd:string" />
+  <xsd:element name="VigenteFlg" type="mfx11:TrueFalse" />
+  <xsd:simpleType name="CltDatosAutzVal_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="1" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="SvcSelector_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="15" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:complexType name="TagTemporalLst_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Ctd" />
+      <xsd:element maxOccurs="unbounded" ref="mfx11:TagTemporal" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="TagTemporal_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:TagNom" />
+      <xsd:element ref="mfx11:TagVal" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:simpleType name="CIC_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:length value="12" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="IDC_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:length value="16" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:simpleType name="SelFlg_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:maxLength value="20" />
+      <xsd:pattern value="([0-1])+" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:complexType name="CltNom_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:NomCompleto" />
+      <xsd:element minOccurs="0" ref="mfx11:NomCorto" />
+      <xsd:element minOccurs="0" ref="mfx11:ApellidoPaterno" />
+      <xsd:element minOccurs="0" ref="mfx11:ApellidoMaterno" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:simpleType name="Pais_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:length value="3" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:complexType name="DirPst_Type">
+    <xsd:sequence>
+      <xsd:sequence minOccurs="0">
+        <xsd:element ref="mfx11:DirLinea1" />
+        <xsd:sequence minOccurs="0">
+          <xsd:element ref="mfx11:DirLinea2" />
+          <xsd:sequence minOccurs="0">
+            <xsd:element ref="mfx11:DirLinea3" />
+            <xsd:sequence minOccurs="0">
+              <xsd:element ref="mfx11:DirLinea4" />
+            </xsd:sequence>
+          </xsd:sequence>
+        </xsd:sequence>
+      </xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:Ciudad" />
+      <xsd:element minOccurs="0" ref="mfx11:Distrito" />
+      <xsd:element minOccurs="0" ref="mfx11:Provincia" />
+      <xsd:element minOccurs="0" ref="mfx11:Departamento" />
+      <xsd:element minOccurs="0" ref="mfx11:Ubigeo" />
+      <xsd:element minOccurs="0" ref="mfx11:Region" />
+      <xsd:element minOccurs="0" ref="mfx11:CodPst" />
+      <xsd:element minOccurs="0" ref="mfx11:Pais" />
+      <xsd:element minOccurs="0" ref="mfx11:DirTp" />
+      <xsd:element minOccurs="0" ref="mfx11:TlfClt" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltRelaAC_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:AporteValor" />
+      <xsd:element minOccurs="0" ref="mfx11:AporteTp" />
+      <xsd:element minOccurs="0" ref="mfx11:FecEft" />
+      <xsd:element minOccurs="0" ref="mfx11:FecProc" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltRelaCltsLst_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Ctd" />
+      <xsd:element maxOccurs="unbounded" ref="mfx11:CltRelaClts" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltRelaClts_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:Status" />
+      <xsd:element minOccurs="0" ref="mfx11:SvcSelector" />
+      <xsd:element minOccurs="0" ref="mfx11:AddFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:ServStatus" />
+      <xsd:element minOccurs="0" ref="mfx11:IDC" />
+      <xsd:element minOccurs="0" ref="mfx11:CIC" />
+      <xsd:element minOccurs="0" ref="mfx11:NomCompleto" />
+      <xsd:element minOccurs="0" ref="mfx11:CEMNro" />
+      <xsd:element minOccurs="0" ref="mfx11:CEMNroSec" />
+      <xsd:element minOccurs="0" ref="mfx11:MtoMax" />
+      <xsd:element minOccurs="0" ref="mfx11:FecVct" />
+      <xsd:element minOccurs="0" ref="mfx11:CEMStatus" />
+      <xsd:element minOccurs="0" ref="mfx11:MtoDisp" />
+      <xsd:element minOccurs="0" ref="mfx11:MtoUsado" />
+      <xsd:element minOccurs="0" ref="mfx11:FecSgtRevision" />
+      <xsd:element minOccurs="0" ref="mfx11:IdSec" />
+      <xsd:element minOccurs="0" ref="mfx11:RelaDes" />
+      <xsd:element minOccurs="0" ref="mfx11:CltNom" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpleadoCargo" />
+      <xsd:element minOccurs="0" ref="mfx11:RelaTp" />
+      <xsd:element minOccurs="0" ref="mfx11:OpnSec" />
+      <xsd:element minOccurs="0" ref="mfx11:VigenteFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:FecIni" />
+      <xsd:element minOccurs="0" ref="mfx11:FecFin" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpleadorRUC" />
+      <xsd:element minOccurs="0" ref="mfx11:CIIU" />
+      <xsd:element minOccurs="0" ref="mfx11:FecNacimiento" />
+      <xsd:element minOccurs="0" ref="mfx11:Genero" />
+      <xsd:element minOccurs="0" ref="mfx11:ResidenteFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:DirPst" />
+      <xsd:element minOccurs="0" ref="mfx11:SucursalCod" />
+      <xsd:element minOccurs="0" ref="mfx11:SectoristaCod" />
+      <xsd:element minOccurs="0" ref="mfx11:BancaTp" />
+      <xsd:element minOccurs="0" ref="mfx11:RangoVta" />
+      <xsd:element minOccurs="0" ref="mfx11:CatEconom" />
+      <xsd:element minOccurs="0" ref="mfx11:CtaUsoTp" />
+      <xsd:element minOccurs="0" ref="mfx11:Nacionalidad" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpTp" />
+      <xsd:element minOccurs="0" ref="mfx11:RelaCod" />
+      <xsd:element minOccurs="0" ref="mfx11:FecVld" />
+      <xsd:element minOccurs="0" ref="mfx11:TrnTp" />
+      <xsd:element minOccurs="0" ref="mfx11:CltRelaAC" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:simpleType name="Mto_Type">
+    <xsd:restriction base="xsd:decimal">
+      <xsd:fractionDigits value="4" />
+      <xsd:minInclusive value="-99999999999999.9999" />
+      <xsd:maxInclusive value="99999999999999.9999" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:complexType name="MtoTp_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:OpnTp" />
+      <xsd:element minOccurs="0" ref="mfx11:OpnSec" />
+      <xsd:element minOccurs="0" ref="mfx11:Des" />
+      <xsd:element minOccurs="0" ref="mfx11:MtoEft" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="MtoMon_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Mto" />
+      <xsd:element minOccurs="0" ref="mfx11:MonCod" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="DirEstLst_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Ctd" />
+      <xsd:element maxOccurs="unbounded" ref="mfx11:DirEst" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltDatosAutzLst_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:Ctd" />
+      <xsd:element maxOccurs="unbounded" ref="mfx11:CltDatosAutz" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltDatosAutz_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:CltDatosAutzTp" />
+      <xsd:element minOccurs="0" ref="mfx11:CltDatosAutzVal" />
+      <xsd:element minOccurs="0" ref="mfx11:Des" />
+      <xsd:element minOccurs="0" ref="mfx11:FecUltAct" />
+      <xsd:element minOccurs="0" ref="mfx11:Login" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="DirEst_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:Status" />
+      <xsd:element minOccurs="0" ref="mfx11:AccionTp" />
+      <xsd:element minOccurs="0" ref="mfx11:MasivoFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:IdSec" />
+      <xsd:element minOccurs="0" ref="mfx11:DirTp" />
+      <xsd:element minOccurs="0" ref="mfx11:StatusCod" />
+      <xsd:element minOccurs="0" ref="mfx11:ViaTp" />
+      <xsd:element minOccurs="0" ref="mfx11:ViaNom" />
+      <xsd:element minOccurs="0" ref="mfx11:ViaNro" />
+      <xsd:element minOccurs="0" ref="mfx11:DptoTp" />
+      <xsd:element minOccurs="0" ref="mfx11:DptoNro" />
+      <xsd:element minOccurs="0" ref="mfx11:Mz" />
+      <xsd:element minOccurs="0" ref="mfx11:Lt" />
+      <xsd:element minOccurs="0" ref="mfx11:UrbTp" />
+      <xsd:element minOccurs="0" ref="mfx11:UrbNom" />
+      <xsd:element minOccurs="0" ref="mfx11:SectorTp" />
+      <xsd:element minOccurs="0" ref="mfx11:SectorNom" />
+      <xsd:element minOccurs="0" ref="mfx11:UbiCod" />
+      <xsd:element minOccurs="0" ref="mfx11:TlfClt" />
+      <xsd:element minOccurs="0" ref="mfx11:DirLinea1" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltEmp_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:EmpNaturTp" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpCatTp" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpSedeTp" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="ClsRiesgoInfo_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:CltFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:CartTp" />
+      <xsd:element minOccurs="0" ref="mfx11:Fec" />
+      <xsd:element minOccurs="0" ref="mfx11:FecUpd" />
+      <xsd:element minOccurs="0" ref="mfx11:AccionTp" />
+      <xsd:element minOccurs="0" ref="mfx11:StatusCod" />
+      <xsd:element minOccurs="0" ref="mfx11:OrigenCod" />
+      <xsd:element minOccurs="0" ref="mfx11:Login" />
+      <xsd:element minOccurs="0" ref="mfx11:CalifRiesgos" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:simpleType name="BancaSegmtCod_Type">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="[0-9]{2}" />
+    </xsd:restriction>
+  </xsd:simpleType>
+  <xsd:complexType name="AEP_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:Status" />
+      <xsd:element minOccurs="0" ref="mfx11:FecEft" />
+      <xsd:element minOccurs="0" ref="mfx11:FecVld" />
+      <xsd:element minOccurs="0" ref="mfx11:MtoTpLst" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="MtoTpLst_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Ctd" />
+      <xsd:element maxOccurs="unbounded" ref="mfx11:MtoTp" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltInfo_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:AccionTp" />
+      <xsd:element minOccurs="0" ref="mfx11:DirPst" />
+      <xsd:element minOccurs="0" ref="mfx11:CltNom" />
+      <xsd:element minOccurs="0" ref="mfx11:CIC" />
+      <xsd:element minOccurs="0" ref="mfx11:IDC" />
+      <xsd:element minOccurs="0" ref="mfx11:BancaSegmtCod" />
+      <xsd:element minOccurs="0" ref="mfx11:BancaTp" />
+      <xsd:element minOccurs="0" ref="mfx11:FecNacimiento" />
+      <xsd:element minOccurs="0" ref="mfx11:FecFallecido" />
+      <xsd:element minOccurs="0" ref="mfx11:DirNacimiento" />
+      <xsd:element minOccurs="0" ref="mfx11:MadreNom" />
+      <xsd:element minOccurs="0" ref="mfx11:PadreNom" />
+      <xsd:element minOccurs="0" ref="mfx11:ConyugueNom" />
+      <xsd:element minOccurs="0" ref="mfx11:Genero" />
+      <xsd:element minOccurs="0" ref="mfx11:StatusCivil" />
+      <xsd:element minOccurs="0" ref="mfx11:RangoMilitar" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpleadorCod" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpleadorRUC" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpleadorNom" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpleadorPlanCod" />
+      <xsd:element minOccurs="0" ref="mfx11:TlfDomicilio" />
+      <xsd:element minOccurs="0" ref="mfx11:TlfOficina" />
+      <xsd:element minOccurs="0" ref="mfx11:Email" />
+      <xsd:element minOccurs="0" ref="mfx11:CtdDependientes" />
+      <xsd:element minOccurs="0" ref="mfx11:StatusOcupacional" />
+      <xsd:element minOccurs="0" ref="mfx11:Nacionalidad" />
+      <xsd:element minOccurs="0" ref="mfx11:StatusInmigracion" />
+      <xsd:element minOccurs="0" ref="mfx11:NivelEducacion" />
+      <xsd:element minOccurs="0" ref="mfx11:PropiedadCasaTp" />
+      <xsd:element minOccurs="0" ref="mfx11:CltExclusivoTp" />
+      <xsd:element minOccurs="0" ref="mfx11:ResidenteFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:CltSensibleTp" />
+      <xsd:element minOccurs="0" ref="mfx11:CltSensibleDes" />
+      <xsd:element minOccurs="0" ref="mfx11:Profesion" />
+      <xsd:element minOccurs="0" ref="mfx11:CIIU" />
+      <xsd:element minOccurs="0" ref="mfx11:CltRelaCltsLst" />
+      <xsd:element minOccurs="0" ref="mfx11:MtoCEM" />
+      <xsd:element minOccurs="0" ref="mfx11:FecCreacion" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpNom" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpOrigen" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpTp" />
+      <xsd:element minOccurs="0" ref="mfx11:CltTp" />
+      <xsd:element minOccurs="0" ref="mfx11:CltTpAdic" />
+      <xsd:element minOccurs="0" ref="mfx11:CltSegmtCod" />
+      <xsd:element minOccurs="0" ref="mfx11:CltSegmtDes" />
+      <xsd:element minOccurs="0" ref="mfx11:BancaSubSegmtCod" />
+      <xsd:element minOccurs="0" ref="mfx11:BancaSubSegmtDes" />
+      <xsd:element minOccurs="0" ref="mfx11:BancaSegmtCodAdic" />
+      <xsd:element minOccurs="0" ref="mfx11:CltSubSegmtCod" />
+      <xsd:element minOccurs="0" ref="mfx11:CltSubSegmtDes" />
+      <xsd:element minOccurs="0" ref="mfx11:SectoristaCod" />
+      <xsd:element minOccurs="0" ref="mfx11:SectoristaNom" />
+      <xsd:element minOccurs="0" ref="mfx11:SectoristaCodAdic" />
+      <xsd:element minOccurs="0" ref="mfx11:SectoristaNomAdic" />
+      <xsd:element minOccurs="0" ref="mfx11:SucursalDes" />
+      <xsd:element minOccurs="0" ref="mfx11:BancoSectorCod" />
+      <xsd:element minOccurs="0" ref="mfx11:BancoSectorDes" />
+      <xsd:element minOccurs="0" ref="mfx11:SucursalCod" />
+      <xsd:element minOccurs="0" ref="mfx11:AgenciaDes" />
+      <xsd:element minOccurs="0" ref="mfx11:CltNegativoCod" />
+      <xsd:element minOccurs="0" ref="mfx11:CltNegativoDes" />
+      <xsd:element minOccurs="0" ref="mfx11:CalifClt" />
+      <xsd:element minOccurs="0" ref="mfx11:CalifOrgSupBco" />
+      <xsd:element minOccurs="0" ref="mfx11:MtoVta" />
+      <xsd:element minOccurs="0" ref="mfx11:MtoIngBruto" />
+      <xsd:element minOccurs="0" ref="mfx11:RangoVta" />
+      <xsd:element minOccurs="0" ref="mfx11:MtoRentBanco" />
+      <xsd:element minOccurs="0" ref="mfx11:CIIUAdic" />
+      <xsd:element minOccurs="0" ref="mfx11:CtaUsoTp" />
+      <xsd:element minOccurs="0" ref="mfx11:PagHaberesFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpleadorDir" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpleadorUbiGeo" />
+      <xsd:element minOccurs="0" ref="mfx11:EmpleadorTlf" />
+      <xsd:element minOccurs="0" ref="mfx11:BcoConvenioFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:RangoMurcCod" />
+      <xsd:element minOccurs="0" ref="mfx11:RangoMurcDes" />
+      <xsd:element minOccurs="0" ref="mfx11:RUC" />
+      <xsd:element minOccurs="0" ref="mfx11:OrgSupBcoCod" />
+      <xsd:element minOccurs="0" ref="mfx11:FecEft" />
+      <xsd:element minOccurs="0" ref="mfx11:FirmaFlg" />
+      <xsd:element minOccurs="0" ref="mfx11:CltBancoRelaCod" />
+      <xsd:element minOccurs="0" ref="mfx11:CltBancoRelaDes" />
+      <xsd:element minOccurs="0" ref="mfx11:IngBrutoTp" />
+      <xsd:element minOccurs="0" ref="mfx11:CltPEPTp" />
+      <xsd:element minOccurs="0" ref="mfx11:CatEconom" />
+      <xsd:element minOccurs="0" ref="mfx11:CltEmp" />
+      <xsd:element minOccurs="0" ref="mfx11:RegMercantil" />
+      <xsd:element minOccurs="0" ref="mfx11:DirEstLst" />
+      <xsd:element minOccurs="0" ref="mfx11:AEP" />
+      <xsd:element minOccurs="0" ref="mfx11:ClsRiesgoInfo" />
+      <xsd:element minOccurs="0" ref="mfx11:CltDatosAutzLst" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltDatosGralInqRef_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:CIC" />
+      <xsd:element minOccurs="0" ref="mfx11:IDC" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltDatosGralInqReg_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:CltInfo" />
+      <xsd:element minOccurs="0" ref="mfx11:TagTemporalLst" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltDatosGralInqRq_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:RqUID" />
+      <xsd:element ref="mfx11:MsjRqHdr" />
+      <xsd:element minOccurs="0" ref="mfx11:SelFlg" />
+      <xsd:element ref="mfx11:CltDatosGralInqRef" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="CltDatosGralInqRs_Type">
+    <xsd:sequence>
+      <xsd:element ref="mfx11:Status" />
+      <xsd:element minOccurs="0" ref="mfx11:RqUID" />
+      <xsd:element minOccurs="0" ref="mfx11:MsjRsHdr" />
+      <xsd:element minOccurs="0" ref="mfx11:CltDatosGralInqReg" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:complexType name="MFX_CltDatosGralInq_Type">
+    <xsd:sequence>
+      <xsd:element minOccurs="0" ref="mfx11:CltDatosGralInqRq" />
+      <xsd:element minOccurs="0" ref="mfx11:CltDatosGralInqRs" />
+    </xsd:sequence>
+  </xsd:complexType>
+  <xsd:element name="CltDatosGralInqRq" type="mfx11:CltDatosGralInqRq_Type" />
+  <xsd:element name="CltDatosGralInqRs" type="mfx11:CltDatosGralInqRs_Type" />
+  <xsd:element name="MFX_CltDatosGralInq" type="mfx11:MFX_CltDatosGralInq_Type" />
+</xsd:schema>

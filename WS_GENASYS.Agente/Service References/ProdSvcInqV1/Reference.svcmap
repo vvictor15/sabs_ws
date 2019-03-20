@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="676c9327-32a6-4cec-8dd2-f1a2001ddd62" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\Archivos\ProdSvcInqV1\MBRK_ProdSvcInqV1.wsdl" Protocol="file" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MS_MB_ProdSvcInqV1.wsdl" MetadataType="Wsdl" ID="08f9f03c-fa50-44ff-afb5-92852a403d34" SourceId="1" SourceUrl="file:///C:/Rmarcatincoc/INFODATA/Desarrollo/TK000078544 - Mejoras en la Web/Entregables/WebServices/Archivos/ProdSvcInqV1/MBRK_ProdSvcInqV1.wsdl" />
+    <MetadataFile FileName="MFX11_ProdSvcInqV1.xsd" MetadataType="Schema" ID="e1fd7b8d-e303-4b8f-a15a-f9d5fe094606" SourceId="1" SourceUrl="file:///C:/Rmarcatincoc/INFODATA/Desarrollo/TK000078544 - Mejoras en la Web/Entregables/WebServices/Archivos/ProdSvcInqV1/xsd/MFX11_ProdSvcInqV1.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

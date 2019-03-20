@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tns="http://mfxV1_1/CltDatosGralInqV3" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="MS_MB_CltDatosGralInqV3" targetNamespace="http://mfxV1_1/CltDatosGralInqV3" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation>
+    <wsdl:appinfo source="WMQI_APPINFO">
+      <MRWSDLAppInfo imported="true">
+        <binding hasEncoding="false" imported="true" name="MS_MB_CltDatosGralInqV3SOAP_HTTP_Binding" originalBindingStyle="document" />
+      </MRWSDLAppInfo>
+    </wsdl:appinfo>
+  </wsdl:documentation>
+  <wsdl:types>
+    <xsd:schema xmlns:mrm="http://mfxV1_1/CltDatosGralInqV3" targetNamespace="http://mfxV1_1/CltDatosGralInqV3">
+      <xsd:include schemaLocation="xsd/MFX11_CltDatosGralInqV3.xsd" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="CltDatosGralInq_in">
+    <wsdl:part name="MFX_CltDatosGralInq" element="tns:MFX_CltDatosGralInq" />
+  </wsdl:message>
+  <wsdl:message name="CltDatosGralInq_out">
+    <wsdl:part name="MFX_CltDatosGralInq" element="tns:MFX_CltDatosGralInq" />
+  </wsdl:message>
+  <wsdl:portType name="MS_MB_CltDatosGralInqV3PortType">
+    <wsdl:operation name="CltDatosGralInq">
+      <wsdl:input name="CltDatosGralInq_Input" message="tns:CltDatosGralInq_in" />
+      <wsdl:output name="CltDatosGralInq_Output" message="tns:CltDatosGralInq_out" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MS_MB_CltDatosGralInqV3SOAP_HTTP_Binding" type="tns:MS_MB_CltDatosGralInqV3PortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CltDatosGralInq">
+      <soap:operation soapAction="CltDatosGralInq" />
+      <wsdl:input name="CltDatosGralInq_Input">
+        <soap:body use="literal" parts="MFX_CltDatosGralInq" />
+      </wsdl:input>
+      <wsdl:output name="CltDatosGralInq_Output">
+        <soap:body use="literal" parts="MFX_CltDatosGralInq" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MS_MB_CltDatosGralInqV3SOAP_HTTP_Service">
+    <wsdl:port name="MS_MB_CltDatosGralInqV3SOAP_HTTP_Port" binding="tns:MS_MB_CltDatosGralInqV3SOAP_HTTP_Binding">
+      <wsdl:documentation>
+Desarrollo:<soap:address location="https://esbdesa.lima.bcp.com.pe/svc/CltDatosGralInqV3" />
+Certificacion:<soap:address location="https://esbcert.lima.bcp.com.pe/svc/CltDatosGralInqV3" />
+Notas:
+* Para ver la IP asociada solo dar ping al DNS segun el ambiente, todos estan registrados.
+</wsdl:documentation>
+      <soap:address location="https://esb.lima.bcp.com.pe/svc/CltDatosGralInqV3" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

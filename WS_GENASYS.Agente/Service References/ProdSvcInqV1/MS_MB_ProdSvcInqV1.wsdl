@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tns="http://mfxV1_1" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="MS_MB_ProdSvcInqV1" targetNamespace="http://mfxV1_1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation>
+    <wsdl:appinfo source="WMQI_APPINFO">
+      <MRWSDLAppInfo imported="true">
+        <binding hasEncoding="false" imported="true" name="MS_MB_ProdSvcInqV1SOAP_HTTP_Binding" originalBindingStyle="document" />
+      </MRWSDLAppInfo>
+    </wsdl:appinfo>
+  </wsdl:documentation>
+  <wsdl:types>
+    <xsd:schema xmlns:mrm="http://mfxV1_1" targetNamespace="http://mfxV1_1">
+      <xsd:include schemaLocation="xsd/MFX11_ProdSvcInqV1.xsd" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ProdSvcInq_in">
+    <wsdl:part name="MFX_ProdSvcInq" element="tns:MFX_ProdSvcInq" />
+  </wsdl:message>
+  <wsdl:message name="ProdSvcInq_out">
+    <wsdl:part name="MFX_ProdSvcInq" element="tns:MFX_ProdSvcInq" />
+  </wsdl:message>
+  <wsdl:portType name="MS_MB_ProdSvcInqV1PortType">
+    <wsdl:operation name="ProdSvcInq">
+      <wsdl:input name="ProdSvcInq_Input" message="tns:ProdSvcInq_in" />
+      <wsdl:output name="ProdSvcInq_Output" message="tns:ProdSvcInq_out" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MS_MB_ProdSvcInqV1SOAP_HTTP_Binding" type="tns:MS_MB_ProdSvcInqV1PortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ProdSvcInq">
+      <soap:operation soapAction="ProdSvcInq" />
+      <wsdl:input name="ProdSvcInq_Input">
+        <soap:body use="literal" parts="MFX_ProdSvcInq" />
+      </wsdl:input>
+      <wsdl:output name="ProdSvcInq_Output">
+        <soap:body use="literal" parts="MFX_ProdSvcInq" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MS_MB_ProdSvcInqV1SOAP_HTTP_Service">
+    <wsdl:port name="MS_MB_ProdSvcInqV1SOAP_HTTP_Port" binding="tns:MS_MB_ProdSvcInqV1SOAP_HTTP_Binding">
+      <wsdl:documentation>
+Desarrollo:<soap:address location="https://esbdesa.lima.bcp.com.pe/svc/ProdSvcInqV1" />
+Certificacion:<soap:address location="https://esbcert.lima.bcp.com.pe/svc/ProdSvcInqV1" />
+Notas:
+* Para ver la IP asociada solo dar ping al DNS segun el ambiente, todos estan registrados.
+</wsdl:documentation>
+      <soap:address location="https://esb.lima.bcp.com.pe/svc/ProdSvcInqV1" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
