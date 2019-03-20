@@ -1,0 +1,55 @@
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.exe.config
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.exe
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.XmlSerializers.dll
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.pdb
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\ResolveAssemblyReference.cache
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.Form1.resources
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.exe
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.pdb
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.XmlSerializers.dll
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.exe.config
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.XmlSerializers.dll
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.XmlSerializers.dll
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\ResolveAssemblyReference.cache
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.exe.config
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.exe
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.pdb
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.XmlSerializers.dll
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.exe
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.XmlSerializers.dll
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.pdb
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Escritorio\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.exe.config
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.exe
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.XmlSerializers.dll
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.pdb
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\ResolveAssemblyReference.cache
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.exe
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.pdb
+G:\Willis\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.XmlSerializers.dll
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.exe.config
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.XmlSerializers.dll
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Release\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\ResolveAssemblyReference.cache
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\2014\ServicioBCP\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Release\WS_GENASYS.ClienteDemo.XmlSerializers.dll

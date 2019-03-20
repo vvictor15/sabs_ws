@@ -1,0 +1,159 @@
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Form1.resources
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+D:\1_Personal\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\2012\WS_GENASYS\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\rpacheco\2014\WS_CltDatosGralInqV4\Fuentes\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\Fuentes\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\Fuentes\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\Fuentes\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\rpacheco\BCP\Entregables\Fuentes\PLATAFORMA ISABS - WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas F\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas Actuales\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas Actuales\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - Pruebas Actuales\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\PSANCHEZM\AD-AZMAN\Fuentes\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\CambiosWeb\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WSBCP - FINAL\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\Entregables\WebServices\WS_Finales\WSBCP - FINAL_Modificando_v2\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\II-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Form1.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMIN\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMIN\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMIN\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.ClienteDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Form1.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Rmarcatincoc\INFODATA\Desarrollo\TK000078544 - Mejoras en la Web\001_FUENTESFINALES_MW\III-CICLO\WSBCP - DAMMIN\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csprojResolveAssemblyReference.cache
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Form1.resources
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache
+D:\Industrializacion\sabs_srv\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultaClienteAUT.resources
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe.config
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.exe
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\bin\Debug\WS_GENASYS.ClienteDemo.pdb
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csprojResolveAssemblyReference.cache
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Form1.resources
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultaClienteAUT.resources
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.frmConsultarClienteWS.resources
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.Properties.Resources.resources
+C:\Users\S60045.BCPDOM\Desktop\WSBCP\WS_GENASYS.ClienteDemo\obj\Debug\WS_GENASYS.ClienteDemo.csproj.GenerateResource.Cache

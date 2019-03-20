@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WS_GENASYS.Service" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WS_GENASYS.Service" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="DatosPersonalesRequest">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CodFuncionario" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IDC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NroOperacion" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DatosPersonalesRequest" nillable="true" type="tns:DatosPersonalesRequest" />
+  <xs:complexType name="DatosPersonalesResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cliente" nillable="true" type="tns:Cliente" />
+      <xs:element minOccurs="0" name="Direcciones" nillable="true" type="tns:Direcciones" />
+      <xs:element minOccurs="0" name="Errores" nillable="true" type="tns:Errores" />
+      <xs:element minOccurs="0" name="ServSeveridad" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ServStatusCod" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ServStatusDes" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Severidad" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StatusCod" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StatusDes" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DatosPersonalesResponse" nillable="true" type="tns:DatosPersonalesResponse" />
+  <xs:complexType name="Cliente">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="apellido_materno" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="apellido_paterno" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="estado_civil" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="fecha_nacimiento" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="genero" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="nacionalidad" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="nombres" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="numero_documento" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="profesion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="tipo_documento" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Cliente" nillable="true" type="tns:Cliente" />
+  <xs:complexType name="Direcciones">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Direccion" nillable="true" type="tns:Direccion" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Direcciones" nillable="true" type="tns:Direcciones" />
+  <xs:complexType name="Direccion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="departamento_piso_interior" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="direccion_comprimida" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="localidad" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="lote" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="manzana" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="nombre_habitacional_codurbanizacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="nombre_sector_etapa_zona" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="nombre_via" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="numero_departamento_piso_interior" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="numero_secuencia" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="numero_via" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="sector_etapa_zona" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="telefono" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="tipo_direccion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="tipo_habitacional_codurbanizacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="tipo_via" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Direccion" nillable="true" type="tns:Direccion" />
+  <xs:complexType name="Errores">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Error" nillable="true" type="tns:Error" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Errores" nillable="true" type="tns:Errores" />
+  <xs:complexType name="Error">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Descripcion" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Error" nillable="true" type="tns:Error" />
+  <xs:complexType name="DatosMedioPagoResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Errores" nillable="true" type="tns:Errores" />
+      <xs:element minOccurs="0" name="MediodePagoData" nillable="true" type="tns:MediodePagoData" />
+      <xs:element minOccurs="0" name="ServSeveridad" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ServStatusCod" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ServStatusDes" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Severidad" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StatusCod" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StatusDes" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DatosMedioPagoResponse" nillable="true" type="tns:DatosMedioPagoResponse" />
+  <xs:complexType name="MediodePagoData">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="MediodePago" nillable="true" type="tns:MediodePago" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="MediodePagoData" nillable="true" type="tns:MediodePagoData" />
+  <xs:complexType name="MediodePago">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="cod_estadoproducto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="cod_familia" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="cod_moneda" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="cod_producto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="des_estadoproducto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="numero_medioPago" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="MediodePago" nillable="true" type="tns:MediodePago" />
+</xs:schema>
